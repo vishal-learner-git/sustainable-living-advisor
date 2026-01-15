@@ -110,10 +110,5 @@ This app is optimized for deployment on **Netlify** or **Vercel**.
 
 ### Live Demo
 Check out the live version here: [https://tourmaline-piroshki-25075d.netlify.app/](https://tourmaline-piroshki-25075d.netlify.app/)
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 *Built with 💚 for a greener planet.*
